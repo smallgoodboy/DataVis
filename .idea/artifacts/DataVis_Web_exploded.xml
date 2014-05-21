@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DataVis:Web exploded">
+    <output-path>$PROJECT_DIR$/web/LAB_web/DSL/index</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DataVis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DataVis" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
